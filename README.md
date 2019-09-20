@@ -1,2 +1,2 @@
 # learningPHP
-learning PHP7
+PHP7のおべんきょうの個人的記録
